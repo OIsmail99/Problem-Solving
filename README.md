@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OIsmail99/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/OIsmail99/Problem-Solving/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OIsmail99/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/OIsmail99/Problem-Solving/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->

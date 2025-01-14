@@ -7,6 +7,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | ------- |
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/OIsmail99/Problem-Solving/tree/master/0118-pascals-triangle) |
+| [2102-find-the-middle-index-in-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->

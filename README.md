@@ -26,6 +26,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
@@ -47,6 +48,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy

@@ -9,6 +9,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0118-pascals-triangle](https://github.com/OIsmail99/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0643-maximum-average-subarray-i](https://github.com/OIsmail99/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [2102-find-the-middle-index-in-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +48,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |

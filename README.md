@@ -13,6 +13,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
+| [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +42,12 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/OIsmail99/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->

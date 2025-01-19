@@ -1,5 +1,6 @@
 class Solution {
     public String firstPalindrome(String[] words) {
+        //O(N*M) time complexity, not O(N2)
         for(int i = 0; i < words.length; i++){
             boolean flag = false;
             int start = 0;

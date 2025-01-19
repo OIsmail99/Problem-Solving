@@ -11,13 +11,16 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode fast = head;
-        ListNode slow = head;
-// If a linked list has a cycle, the fast pointer will eventually meet the slow pointer inside the loop.
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-            if(fast == slow) return true;
+        ListNode current = head;
+        HashSet<ListNode> map = new HashSet<>();
+        while(current != null){
+            if(map.contains(current)){
+                return true;
+            }
+            else{
+                map.add(current);
+            }
+            current = current.next;
         }
         return false;
     }

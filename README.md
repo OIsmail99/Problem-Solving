@@ -24,6 +24,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |

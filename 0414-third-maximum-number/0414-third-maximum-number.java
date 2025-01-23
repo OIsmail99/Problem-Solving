@@ -16,30 +16,12 @@ class Solution {
         }
     }
     public int thirdMax(int[] nums) {
-       int max = Integer.MIN_VALUE;
-       int secMax = Integer.MIN_VALUE;
-       int thirdMax = Integer.MIN_VALUE; 
-       boolean isFound = false;
-       for(int i =0; i < nums.length; i++){
-            if(nums[i] > max){
-                max = nums[i];
-            }
-       }
-       for(int i =0; i < nums.length; i++){
-            if(nums[i] < max && nums[i] > secMax ){
-                secMax = nums[i];
-            }
-       }
-       for(int i =0; i < nums.length; i++){
-            if(nums[i] < secMax && nums[i] >= thirdMax ){
-                isFound = true;
-                thirdMax = nums[i];
-            }
-       }
-       
-       if(!isFound) return max;
-    //    if(nums.length < 3) return max;
-    //    if(thirdMax == secMax) return max;
-       return thirdMax;
+        TreeSet<Integer> set = new TreeSet<>();
+        for(int i = 0; i < nums.length; i++){
+            set.add(nums[i]);
+        }
+        Integer[] treeArr = set.toArray(new Integer[0]);
+        if(treeArr.length >= 3) return treeArr[treeArr.length - 3];
+        return treeArr[treeArr.length -1];
 }
 }

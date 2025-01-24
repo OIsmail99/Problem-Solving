@@ -19,6 +19,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | ------- |
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -90,4 +92,12 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/OIsmail99/Problem-Solving/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

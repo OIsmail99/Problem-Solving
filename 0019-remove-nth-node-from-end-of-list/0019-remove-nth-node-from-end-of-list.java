@@ -25,16 +25,11 @@ class Solution {
             return head.next;
         }
         ListNode current = head;
-        while(current != null){
-            if(length == n + 1 && current.next != null){
-                ListNode temp = current.next;
-                current.next = temp.next;
-                temp.next = null;
-                return head;
-            }
+        int position = length - n; //position of the node before nth
+        for(int i =1; i < position; i++){ //1,2,3
             current = current.next;
-            length--;
         }
+        current.next = current.next.next;
         return head;
     }
 }

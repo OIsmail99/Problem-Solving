@@ -1,15 +1,18 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int[] indicies = {0,0};
+        HashMap<Integer, Integer> map = new HashMap<>(); //number and its index
+        
+        
         for(int i=0; i < nums.length; i++){
-            for(int j=0; j < nums.length; j++){
-                if(nums[i] + nums[j] == target && i != j){
-                    indicies[0] = i;
-                    indicies[1] = j;
-                    return indicies;
-                }
+                int complement = target - nums[i];
+
+                if(map.containsKey(complement)){
+                    return new int[] {map.get(complement), i};
+            }
+            else{
+                map.put(nums[i], i);
             }
         }
-        return null;
+        throw new IllegalArgumentException("not found"); 
     }
 }

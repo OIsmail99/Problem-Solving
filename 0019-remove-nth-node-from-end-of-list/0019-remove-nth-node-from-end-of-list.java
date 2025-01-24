@@ -9,27 +9,22 @@
  * }
  */
 class Solution {
-    public static int lengthOfList(ListNode head){
-        ListNode current = head;
-        int counter = 0;
-        while(current != null){
-            counter++;
-            current = current.next;
-        }
-        return counter;
-    }
+    
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        int length = lengthOfList(head);
-        System.out.println(length);
-        if(n == length){
-            return head.next;
-        }
-        ListNode current = head;
-        int position = length - n; //position of the node before nth
-        for(int i =1; i < position; i++){ //1,2,3
-            current = current.next;
-        }
-        current.next = current.next.next;
-        return head;
+    //[1,2,3,4,5]
+    ListNode dummy = new ListNode(0);
+    dummy.next = head;
+    ListNode slow = dummy;
+    ListNode fast = dummy;
+    for(int i=0; i <= n; i++){ //fast should move n times
+        fast = fast.next;
     }
+    while(fast != null){
+        fast = fast.next;
+        slow = slow.next;
+    }   //slow is now at the node right before the node to be removed
+    //if the node to be removed is the head, slow is at the dummy node.
+    slow.next = slow.next.next;
+    return dummy.next; //returning the head.
+}
 }

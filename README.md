@@ -21,6 +21,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
@@ -86,6 +88,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | ------- |
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -102,9 +105,18 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

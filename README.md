@@ -21,6 +21,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
+| [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0392-is-subsequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -100,4 +102,9 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

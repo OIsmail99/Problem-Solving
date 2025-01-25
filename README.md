@@ -42,6 +42,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/OIsmail99/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
@@ -70,6 +71,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/OIsmail99/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum

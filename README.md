@@ -12,6 +12,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0118-pascals-triangle](https://github.com/OIsmail99/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,6 +58,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
@@ -105,6 +107,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/OIsmail99/Problem-Solving/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |

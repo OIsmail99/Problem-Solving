@@ -6,6 +6,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OIsmail99/Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -50,6 +51,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |

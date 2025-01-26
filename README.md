@@ -167,4 +167,5 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/OIsmail99/Problem-Solving/tree/master/0584-find-customer-referee) |
+| [1827-invalid-tweets](https://github.com/OIsmail99/Problem-Solving/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->

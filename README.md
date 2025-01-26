@@ -163,4 +163,8 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/OIsmail99/Problem-Solving/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

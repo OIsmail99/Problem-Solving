@@ -168,6 +168,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | ------- |
 | [0184-department-highest-salary](https://github.com/OIsmail99/Problem-Solving/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/OIsmail99/Problem-Solving/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/OIsmail99/Problem-Solving/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/OIsmail99/Problem-Solving/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/OIsmail99/Problem-Solving/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/OIsmail99/Problem-Solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |

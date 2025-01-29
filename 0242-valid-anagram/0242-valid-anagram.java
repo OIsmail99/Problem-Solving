@@ -6,10 +6,15 @@ class Solution {
         for(int i=0; i < s.length();i++){
             sMap.put(s.charAt(i), sMap.getOrDefault(s.charAt(i),0)+1);
         }
-        HashMap<Character,Integer> tMap = new HashMap<>();
-        for(int i=0; i < t.length(); i++){
-            tMap.put(t.charAt(i), tMap.getOrDefault(t.charAt(i),0)+1);
+        for(int i=0; i < t.length();i++){
+            if(!sMap.containsKey(t.charAt(i))) return false;
+            int counter = sMap.get(t.charAt(i));
+            counter--;
+            sMap.put(t.charAt(i),counter);
         }
-       return sMap.equals(tMap);
+        for(Integer count: sMap.values()){
+            if(count != 0) return false;
+        }
+        return true;
     }
 }

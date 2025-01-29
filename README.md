@@ -37,6 +37,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/OIsmail99/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0392-is-subsequence) |
 ## Linked List
@@ -111,6 +112,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/OIsmail99/Problem-Solving/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -177,4 +179,8 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/OIsmail99/Problem-Solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/OIsmail99/Problem-Solving/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/OIsmail99/Problem-Solving/tree/master/1827-invalid-tweets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

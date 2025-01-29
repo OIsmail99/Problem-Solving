@@ -29,6 +29,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/OIsmail99/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +90,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/OIsmail99/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
@@ -105,6 +107,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/OIsmail99/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0948-sort-an-array) |

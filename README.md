@@ -21,6 +21,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [1603-running-sum-of-1d-array](https://github.com/OIsmail99/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3429-special-array-i](https://github.com/OIsmail99/Problem-Solving/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |

@@ -8,6 +8,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OIsmail99/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OIsmail99/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -27,6 +28,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
@@ -94,6 +96,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/OIsmail99/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -109,6 +112,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |

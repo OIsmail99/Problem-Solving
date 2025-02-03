@@ -17,6 +17,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/OIsmail99/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
@@ -36,6 +37,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OIsmail99/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -121,6 +123,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OIsmail99/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0948-sort-an-array) |
@@ -144,6 +147,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | ------- |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
@@ -155,11 +159,13 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
@@ -167,6 +173,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | ------- |
 | [0053-maximum-subarray](https://github.com/OIsmail99/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0948-sort-an-array) |
 ## Union Find
 |  |
@@ -203,4 +210,8 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | ------- |
 | [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/OIsmail99/Problem-Solving/tree/master/1013-fibonacci-number) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

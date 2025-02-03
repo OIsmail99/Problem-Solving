@@ -23,6 +23,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [1603-running-sum-of-1d-array](https://github.com/OIsmail99/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2486-most-frequent-even-element](https://github.com/OIsmail99/Problem-Solving/tree/master/2486-most-frequent-even-element) |
 | [3429-special-array-i](https://github.com/OIsmail99/Problem-Solving/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/OIsmail99/Problem-Solving/tree/master/2486-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/OIsmail99/Problem-Solving/tree/master/2486-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |

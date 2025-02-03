@@ -9,6 +9,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/OIsmail99/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OIsmail99/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OIsmail99/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/OIsmail99/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/OIsmail99/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OIsmail99/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +165,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/OIsmail99/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0948-sort-an-array) |
 ## Union Find

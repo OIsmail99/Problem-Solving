@@ -23,6 +23,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0643-maximum-average-subarray-i](https://github.com/OIsmail99/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0948-sort-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/OIsmail99/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/OIsmail99/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2486-most-frequent-even-element](https://github.com/OIsmail99/Problem-Solving/tree/master/2486-most-frequent-even-element) |
@@ -42,6 +43,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0409-longest-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [1635-number-of-good-pairs](https://github.com/OIsmail99/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/OIsmail99/Problem-Solving/tree/master/2486-most-frequent-even-element) |
 ## Dynamic Programming
@@ -134,6 +136,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/OIsmail99/Problem-Solving/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/OIsmail99/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +153,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/OIsmail99/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OIsmail99/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [1635-number-of-good-pairs](https://github.com/OIsmail99/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/OIsmail99/Problem-Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/OIsmail99/Problem-Solving/tree/master/2486-most-frequent-even-element) |
 ## Bit Manipulation

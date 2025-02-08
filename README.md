@@ -8,6 +8,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/OIsmail99/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/OIsmail99/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -34,6 +35,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/OIsmail99/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
@@ -223,4 +225,8 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/OIsmail99/Problem-Solving/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

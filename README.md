@@ -18,6 +18,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/OIsmail99/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/OIsmail99/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -97,6 +98,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/OIsmail99/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/OIsmail99/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/OIsmail99/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 ## Sliding Window

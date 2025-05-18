@@ -140,6 +140,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/OIsmail99/Problem-Solving/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/OIsmail99/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |

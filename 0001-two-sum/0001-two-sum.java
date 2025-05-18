@@ -1,18 +1,16 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> map = new HashMap<>(); //number and its index
-        
-        
+        Map<Integer, Integer> map = new HashMap<>();
         for(int i=0; i < nums.length; i++){
-                int complement = target - nums[i];
-
-                if(map.containsKey(complement)){
-                    return new int[] {map.get(complement), i};
+            int complement = target - nums[i];
+            if(map.containsKey(complement)){
+                int[] arr = {map.get(complement), i};
+                return arr;
             }
             else{
-                map.put(nums[i], i);
+            map.put(nums[i], i);
             }
         }
-        throw new IllegalArgumentException("not found"); 
+        return null;
     }
 }

@@ -12,8 +12,8 @@ class Solution {
         if(x < 0) return false;
         int intact = x;
         int reversed = reverse(x);
-        System.out.println(intact);
-        System.out.println(reversed);
+        // System.out.println(intact);
+        // System.out.println(reversed);
 
         return intact == reversed;
     }

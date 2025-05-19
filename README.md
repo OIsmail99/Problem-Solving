@@ -35,6 +35,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OIsmail99/Problem-Solving/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/OIsmail99/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/OIsmail99/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
@@ -111,6 +112,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/OIsmail99/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/OIsmail99/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/OIsmail99/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -141,6 +143,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | ------- |
 | [0007-reverse-integer](https://github.com/OIsmail99/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/OIsmail99/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/OIsmail99/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |

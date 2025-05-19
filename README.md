@@ -41,6 +41,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0128-longest-consecutive-sequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/OIsmail99/Problem-Solving/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/OIsmail99/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OIsmail99/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -83,6 +84,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0125-valid-palindrome](https://github.com/OIsmail99/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/OIsmail99/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/OIsmail99/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/OIsmail99/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
@@ -147,6 +149,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0069-sqrtx](https://github.com/OIsmail99/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/OIsmail99/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OIsmail99/Problem-Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/OIsmail99/Problem-Solving/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/OIsmail99/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/OIsmail99/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Binary Search

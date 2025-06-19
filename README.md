@@ -236,6 +236,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [1801-average-time-of-process-per-machine](https://github.com/OIsmail99/Problem-Solving/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/OIsmail99/Problem-Solving/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/OIsmail99/Problem-Solving/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/OIsmail99/Problem-Solving/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/OIsmail99/Problem-Solving/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Memoization
 |  |

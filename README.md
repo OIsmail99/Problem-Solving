@@ -218,6 +218,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/OIsmail99/Problem-Solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/OIsmail99/Problem-Solving/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/OIsmail99/Problem-Solving/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/OIsmail99/Problem-Solving/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/OIsmail99/Problem-Solving/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/OIsmail99/Problem-Solving/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/OIsmail99/Problem-Solving/tree/master/1161-project-employees-i) |

@@ -213,6 +213,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/OIsmail99/Problem-Solving/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/OIsmail99/Problem-Solving/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/OIsmail99/Problem-Solving/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/OIsmail99/Problem-Solving/tree/master/0197-rising-temperature) |

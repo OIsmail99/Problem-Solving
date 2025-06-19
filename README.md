@@ -234,6 +234,7 @@ My solutions to some of the problems found on LeetCode. Most of the code is writ
 | [1390-average-selling-price](https://github.com/OIsmail99/Problem-Solving/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/OIsmail99/Problem-Solving/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/OIsmail99/Problem-Solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/OIsmail99/Problem-Solving/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/OIsmail99/Problem-Solving/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/OIsmail99/Problem-Solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/OIsmail99/Problem-Solving/tree/master/1773-percentage-of-users-attended-a-contest) |
